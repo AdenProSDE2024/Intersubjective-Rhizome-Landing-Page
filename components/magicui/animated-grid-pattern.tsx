@@ -1,5 +1,6 @@
 "use client";
 
+import React from 'react';
 import { useEffect, useId, useRef, useState } from "react";
 import { motion } from "framer-motion";
 
