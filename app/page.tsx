@@ -74,7 +74,7 @@ export default function Home() {
           />
         </BentoGrid>
         
-        <ShinyButton className="mt-8 text-black">What's this?</ShinyButton>
+        <ShinyButton className="mt-8 text-black">Research together</ShinyButton>
       </div>
     </main>
   );
